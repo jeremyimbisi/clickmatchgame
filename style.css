@@ -99,6 +99,7 @@
   }
   #result {
     text-align: center;
+    text-decoration-style: solid;
   }
   #result h2 {
     font-size: 2.5em;
