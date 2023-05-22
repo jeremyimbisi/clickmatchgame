@@ -11,5 +11,15 @@
     box-shadow: 0 0.9em 2.8em rgba(86, 66, 0, 0.2);
 }
 .gameBox {
-    
+    position: relative;
+    width: 100%;
+    display: grid;
+    gap: 0.6em;
+}
+.content-heading {
+    text-align: right;
+    margin-bottom: 1.2em;
+}
+.content-heading span {
+    font-weight: 600;
 }
