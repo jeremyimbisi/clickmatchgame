@@ -57,7 +57,7 @@
     font-weight: 600;
   }
   .card-after {
-    background-color: #ffffff;
+    background-color: beige;
     transform: rotateY(180deg);
   }
   .card-container.flipped .card-before {
