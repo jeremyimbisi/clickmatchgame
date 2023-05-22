@@ -18,6 +18,7 @@ git push origin gh-pages
 ## Technologies used
 HTML
 Css
+Java-script
 Git
 Vscode
 ## Link to live site
