@@ -11,18 +11,18 @@ let firstCard = false;
 let secondCard = false;
 //Items array
 const items = [
-  { name: "fruit", image: "fruit 3.jpg" },
-  { name: "fruit", image: "fruit 4.jpg" },
+  { name: "fruit", image: "./images/fruit 3.jpg" },
+  { name: "fruit", image: "./images/fruit 4.jpg" },
   { name: "", image: "./images/fruit 5.jpg" },
-  { name: "", image: "fruit 6.jpg" },
-  { name: "", image: "fruit 8.jpg" },
-  { name: "", image: "fruit 9.jpg" },
-  { name: "", image: "fruit 10.jpg" },
-  { name: "", image: "fruit 11.jpg" },
-  { name: "", image: "fruit 15.jpg" },
-  { name: "", image: "fruit 16.jpg" },
-  { name: "", image: "fruit 17.jpg" },
-  { name: "", image: "fruit 18.jpg" },
+  { name: "", image: "./images/fruit 6.jpg" },
+  { name: "", image: "./images/fruit 8.jpg" },
+  { name: "", image: "./images/fruit 9.jpg" },
+  { name: "", image: "./images/fruit 10.jpg" },
+  { name: "", image: "./images/fruit 11.jpg" },
+  { name: "", image: "./images/fruit 15.jpg" },
+  { name: "", image: "./images/fruit 16.jpg" },
+  { name: "", image: "./images/fruit 17.jpg" },
+  { name: "", image: "./images/fruit 18.jpg" },
 ];
 //Initial Time
 let seconds = 0,
